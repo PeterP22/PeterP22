@@ -4,7 +4,7 @@ I'm an avid programmer who is currently completing a degree in Artificial Intell
 ## 🚀 What I'm Currently Working On
 - Adding more advanced projects to my GitHub related to ML.
 - Practicing LeetCode/HackerRank questions in Java for upcoming interviews.
-- Working on personal data science/computer vision projects to address real-world challenges.
+- Working on personal data science/computer vision projects to solve real-world problems.
 
 ## 🛠 Skills & Technologies
 
