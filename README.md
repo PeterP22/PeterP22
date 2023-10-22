@@ -1,5 +1,5 @@
 # Hey, I'm Peter! 👋
-I'm an avid programmer who is currently completing a degree in Artificial Intelligence. Passionate about upskilling daily and diving deep into the realms of technology.
+I'm an avid programmer who is currently completing a degree in Artificial Intelligence. Passionate about upskilling daily and diving deep into the realms of automation.
 
 ## 🚀 What I'm Currently Working On
 - Adding more advanced projects to my GitHub related to ML.
