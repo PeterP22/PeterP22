@@ -17,7 +17,7 @@ I'm an avid programmer who is currently completing a degree in Artificial Intell
 * **Numerical Computing:** [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/)
 * **Computer Vision:** [OpenCV](https://opencv.org/)
 * **Graph Libraries:** [NetworkX](https://networkx.org/), [Graphviz](https://www.graphviz.org/)
-* **Cloud Platforms:** [AWS](https://aws.amazon.com/)
+* **Cloud Platforms:** [AWS](https://aws.amazon.com/), [Google Cloud Platform](https://cloud.google.com/)
 * **Development Environments:** PyCharm, IntelliJ
 ---
 
