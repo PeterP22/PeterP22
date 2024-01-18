@@ -1,5 +1,7 @@
 ### Yo, I'm Peter, and I love to code. 🚀
-I am an AI developer in my final semester at university, majoring in Artificial Intelligence (AI) and Machine Learning (ML). Always immersed in the latest tech trends, I'm dedicated to crafting solutions for complex problems.
+I am an AI developer in my final semester at university, majoring in Artificial Intelligence (AI) and Machine Learning (ML). 
+Always immersed in the latest tech trends. 
+I am committed to developing solutions for intricate and demanding issues.
 
 #### 🎯 Current Focus
 - Leveraging AI to curate and share valuable content on intriguing topics. Check out my weekly updates on [Twitter](https://twitter.com/peterpreketes).
