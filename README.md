@@ -10,9 +10,9 @@
 - **Frameworks:** Flask, React
 - **Databases:** MySQL, MongoDB
 - **Tools:** Maven, Gradle
-- **Machine Learning:** TensorFlow, PyTorch, Keras, YOLOv8, Whisper, OpenCV
+- **Machine Learning:** TensorFlow, PyTorch, Keras 
 - **Cloud:** Google Cloud Platform (GCP), including Google Data Studio and Firebase
-- **AI Tools:** APIs like OpenAI, Langchain, Midjourney, Vercel AI SDK, Pinecone, Milvus, GPT4, LLaMA, Firebase, Whisper
+- **AI Tools:** APIs like OpenAI, Midjourney, YOLOv8, Whisper
 - **IDEs:** JetBrains suite (PyCharm, IntelliJ)
 
 ---
