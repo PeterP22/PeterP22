@@ -1,4 +1,3 @@
-### Yo, I'm Peter, and I love to code. 🚀
 I am an AI developer in my final semester at university, majoring in Artificial Intelligence (AI) and Machine Learning (ML). 
 Always immersed in the latest tech trends. 
 I am committed to developing solutions for intricate and demanding issues.
