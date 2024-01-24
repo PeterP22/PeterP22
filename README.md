@@ -1,4 +1,4 @@
-# 👋 Hey welcome to my github profile! My name is Peter and i'm an AI developer from Australia in my final semester at university. Always immersed in the latest tech trends. I am committed to developing solutions for intricate and demanding issues.
+# 👋 My name is Peter and i'm an AI/ML developer from Australia. Always immersed in the latest tech trends. I am committed to developing solutions for intricate and demanding issues.
 
 ## 🎯 Current Focus
 - Leveraging AI to curate and share valuable content on intriguing topics. Check out my weekly updates on [Twitter](https://twitter.com/peterpreketes).
