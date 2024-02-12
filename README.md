@@ -5,4 +5,4 @@
 - Developing projects aimed at solving real-world challenges and adding value wherever I can.
 - Long term goal is to help craft fully sentient AGI. 
 
-[Connect with me on LinkedIn]([https://www.linkedin.com/in/peter-p-ab6b3b208/](https://www.linkedin.com/in/peter-preketes-ab6b3b208/)https://www.linkedin.com/in/peter-preketes-ab6b3b208/)
+[Connect with me on LinkedIn](https://www.linkedin.com/in/peter-preketes-ab6b3b208/)
