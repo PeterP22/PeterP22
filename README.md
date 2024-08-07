@@ -1,4 +1,4 @@
-# 👋 My name is Peter and i'm an AI developer from Australia. Always immersed in the latest tech trends. I am committed to developing solutions for intricate and demanding issues.
+# 👋 My name is Peter and i'm an AI Engineer from Australia. Always immersed in the latest tech trends. I am committed to developing solutions for intricate and demanding issues. 
 
 ## 🎯 Current Mission 
 - Leveraging AI to curate and share valuable content on intriguing topics.
