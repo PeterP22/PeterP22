@@ -1,8 +1,21 @@
-# 👋 My name is Peter and i'm an AI Engineer from Australia. Always immersed in the latest tech trends. I am committed to developing solutions for intricate and demanding issues. 
+# Peter Preketes - AI Engineer from Australia 🇦🇺
 
-## 🎯 Current Mission 
-- Leveraging AI to curate and share valuable content on intriguing topics.
-- Developing projects aimed at solving real-world challenges and adding value wherever I can.
-- Long term goal is to help craft fully sentient AGI. 
+I am passionate about leveraging cutting-edge technology to solve complex real-world problems. From competitive gaming to coding, I've always been driven by challenges and continuous learning. 
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/peter-preketes-ab6b3b208/)
+## 🎯 Current Focus
+- Architecting AI solutions to curate and share valuable content on intriguing topics
+- Developing projects that address real-world challenges and add tangible value
+- Contributing to the advancement of AGI research and development
+  
+## 💼 Professional Experience
+- AI Engineer at Synogize (Current)
+- Computer Vision Engineer at Advent Atum
+- Java Software Engineer at bzr
+
+## 🌟 Achievements 
+- Creator of the worlds first AI PvP Bot in Old School Runescape: https://www.youtube.com/watch?v=OZW9Hd61NUU&t= 
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/peter-preketes-ab6b3b208/) 
+
+Always eager to collaborate on innovative AI projects. Feel free to reach out if you'd like to discuss tech, AI, or potential collaborations!
