@@ -1,4 +1,4 @@
-Welcome to my GitHub page. My name is Peter and I am passionate about leveraging cutting-edge technology to solve complex real-world problems. From competitive gaming to coding, I've always been driven by challenges and continuous learning. 
+My name is Peter and I am passionate about leveraging cutting-edge technology to solve complex real-world problems. From competitive gaming to coding, I've always been driven by challenges and continuous learning. 
 
 ## 🎯 Current Focus
 - Architecting AI solutions to curate and share valuable content on intriguing topics
