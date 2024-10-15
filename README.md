@@ -11,7 +11,7 @@ My name is Peter and I am passionate about leveraging cutting-edge technology to
 - Java Software Engineer at bzr
 
 ## 🌟 Achievements 
-- Creator & Programmer of the worlds first AI megatron PvP bot in Old School Runescape: https://www.youtube.com/watch?v=OZW9Hd61NUU&t= 
+- Creator of the worlds first AI megatron PvP bot in Old School Runescape: https://www.youtube.com/watch?v=OZW9Hd61NUU&t= 
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/peter-preketes-ab6b3b208/) 
