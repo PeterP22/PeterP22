@@ -1,4 +1,4 @@
-# 🧙 Innovation Enthusiast 
+# 🧙 AI Innovation Enthusiast 
 
 My name is Peter and I am passionate about leveraging cutting-edge technology to solve complex real-world problems. From competitive gaming to coding, I've always been driven by challenges and continuous learning. 
 
