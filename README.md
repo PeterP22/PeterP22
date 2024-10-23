@@ -13,9 +13,9 @@ My name is Peter and I am passionate about leveraging cutting-edge technology to
 | **Cloud Platforms**          | ![Azure](https://img.shields.io/badge/Azure-blue) ![AWS](https://img.shields.io/badge/AWS-orange) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-red) |
 | **Large Language Models**    | ![OpenAI](https://img.shields.io/badge/OpenAI-purple) ![Anthropic](https://img.shields.io/badge/Anthropic-white) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-red) ![Grok](https://img.shields.io/badge/Grok-black) |
 | **Tools**                   | ![Langchain](https://img.shields.io/badge/Langchain-black) ![LangGraph](https://img.shields.io/badge/LangGraph-blue) ![Perplexity](https://img.shields.io/badge/Perplexity-blue) ![Roboflow](https://img.shields.io/badge/Roboflow-blue)                                     |
+| **Machine Learning**         | ![PyTorch](https://img.shields.io/badge/PyTorch-red)                                                                 |
 | **Version Control**          | ![GitHub](https://img.shields.io/badge/Github-black) ![Docker](https://img.shields.io/badge/Docker-blue)                                                  |
 | **Databases**               | ![Snowflake](https://img.shields.io/badge/Snowflake-blue) ![Supabase](https://img.shields.io/badge/Supabase-green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) |
-
 
 ## 🎯 Current Focus
 - Architecting AI solutions to curate and share valuable content on intriguing topics
