@@ -4,32 +4,50 @@ My name is Peter and I am passionate about leveraging cutting-edge technology to
 
 ## ⚡ Technologies
 
-| **OS**           | **Languages**                 | **Libraries & Frameworks**        |
-|------------------|-------------------------------|-----------------------------------|
-| ![Windows](https://img.shields.io/badge/Windows-blue) | ![Java](https://img.shields.io/badge/Java-blue) | ![Node.js](https://img.shields.io/badge/Node.js-green) |
-|                  | ![Python](https://img.shields.io/badge/Python-blue) | ![Next.js](https://img.shields.io/badge/Next.js-black) |
-|                  | ![TypeScript](https://img.shields.io/badge/TypeScript-blue) | ![Vercel](https://img.shields.io/badge/Vercel-black) |
-|                  | ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) | ![Azure](https://img.shields.io/badge/Azure-blue) |
-|                  | ![SQL](https://img.shields.io/badge/SQL-blue) | ![AWS](https://img.shields.io/badge/AWS-orange) |
-|                  |                               | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-red) |
-|                  |                               | ![Langchain](https://img.shields.io/badge/Langchain-black) |
-|                  |                               | ![LangGraph](https://img.shields.io/badge/LangGraph-blue) |
-|                  |                               | ![OpenAI](https://img.shields.io/badge/OpenAI-purple) |
-|                  |                               | ![Anthropic](https://img.shields.io/badge/Anthropic-white) |
-|                  |                               | ![Google Gemini](https://img.shields.io/badge/Google_Gemini-red) |
-|                  |                               | ![Grok](https://img.shields.io/badge/Grok-black) |
-|                  |                               | ![Perplexity](https://img.shields.io/badge/Perplexity-blue) |
-|                  |                               | ![Flux](https://img.shields.io/badge/Flux-orange) |
-|                  |                               | ![Roboflow](https://img.shields.io/badge/Roboflow-blue) |
-|                  |                               | ![GitHub](https://img.shields.io/badge/Github-black) |
-|                  |                               | ![Docker](https://img.shields.io/badge/Docker-blue) |
+| **Category**              | **Technologies**                                                                                               |
+|---------------------------|---------------------------------------------------------------------------------------------------------------|
+| **OS**                    | ![Windows](https://img.shields.io/badge/Windows-blue)                                                          |
+| **Languages**             | ![Java](https://img.shields.io/badge/Java-blue), ![Python](https://img.shields.io/badge/Python-blue), ![TypeScript](https://img.shields.io/badge/TypeScript-blue), ![JavaScript](https://img.shields.io/badge/JavaScript-yellow), ![SQL](https://img.shields.io/badge/SQL-blue) |
+| **Libraries & Frameworks**| ![Node.js](https://img.shields.io/badge/Node.js-green), ![Next.js](https://img.shields.io/badge/Next.js-black), ![Vercel](https://img.shields.io/badge/Vercel-black), ![Flux](https://img.shields.io/badge/Flux-orange), ![Roboflow](https://img.shields.io/badge/Roboflow-blue), ![ShadCN](https://img.shields.io/badge/ShadCN-gray), ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue) |
+| **Version Control**        | ![GitHub](https://img.shields.io/badge/Github-black), ![Docker](https://img.shields.io/badge/Docker-blue)  |
 
 ---
 
-## ⚡ Databases
+## ☁️ Cloud Platforms
 
-| **Databases** |
-|---------------|
+| **Platforms**              |
+|----------------------------|
+| ![Azure](https://img.shields.io/badge/Azure-blue) |
+| ![AWS](https://img.shields.io/badge/AWS-orange) |
+| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-red) |
+
+---
+
+## 🤖 Large Language Models (LLMs)
+
+| **LLMs**                   |
+|----------------------------|
+| ![OpenAI](https://img.shields.io/badge/OpenAI-purple) |
+| ![Anthropic](https://img.shields.io/badge/Anthropic-white) |
+| ![Google Gemini](https://img.shields.io/badge/Google_Gemini-red) |
+| ![Grok](https://img.shields.io/badge/Grok-black) |
+| ![Perplexity](https://img.shields.io/badge/Perplexity-blue) |
+
+---
+
+## 🛠️ Tools
+
+| **Frameworks**              |
+|-----------------------------|
+| ![Langchain](https://img.shields.io/badge/Langchain-black) |
+| ![LangGraph](https://img.shields.io/badge/LangGraph-blue) |
+
+---
+
+## 🗄️ Databases
+
+| **Databases**              |
+|----------------------------|
 | ![Snowflake](https://img.shields.io/badge/Snowflake-blue) |
 | ![Supabase](https://img.shields.io/badge/Supabase-green) |
 | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue) |
