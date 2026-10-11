@@ -1,4 +1,4 @@
-### building toward superintelligence.
+### building towards superintelligence
 
 quietly, mostly in the open.
 
